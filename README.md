@@ -35,6 +35,7 @@ Esse repositório conta com todo o conteúdo desenvolvido durante o curso "FullS
 
    #### Resultado
 
+   Objetivo: Criar um currículo através das tags básicas do HTML.
    [Repositório](https://github.com/felipemimoura/programadorBR/tree/master/htmlBasico/desafio)
 
    ![Desafio 1](https://imgur.com/hSsiupV.jpg)
