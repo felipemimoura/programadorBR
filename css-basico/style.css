@@ -1,7 +1,51 @@
+#paragrafos {
+  background: url(./imgs/photo-1513151233558-d860c5398176.jpg) center/cover
+    no-repeat fixed;
+}
 #principal {
   color: red;
+  background-color: #00ffff;
 }
 
 .texto-verde {
   color: green;
+}
+#cm {
+  background: blue;
+  width: 1cm;
+  height: 1cm;
+}
+#mm {
+  background-color: red;
+  height: 5mm;
+  width: 5mm;
+}
+#in {
+  background-color: aqua;
+  width: 1in;
+  height: 1in;
+}
+#px {
+  background-color: red;
+  width: 10px;
+  height: 10px;
+}
+#pt {
+  background-color: blue;
+  width: 10pt;
+  height: 10pt;
+}
+#pc {
+  background-color: red;
+  width: 1pc;
+  height: 1pc;
+}
+
+.container {
+  width: 50vw;
+  background: red;
+}
+.inside {
+  width: 100px;
+  background: blue;
 }
