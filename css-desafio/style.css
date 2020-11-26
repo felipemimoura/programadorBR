@@ -1,0 +1,31 @@
+body {
+  font-family: "Antic Slab", serif;
+  width: 400px;
+  height: 200px;
+  margin: 0 auto;
+}
+.cartao {
+  position: relative;
+
+}
+h1 {
+  position: absolute;
+  top: 0;
+
+  font-weight: 100;
+  font-style: normal;
+  padding-left: 40px;
+}
+ul {
+  position: absolute;
+  top: 0;
+  z-index: 3;
+  margin-top: 10vh;
+ 
+}
+
+ul li {
+  list-style: none;
+  padding: 10px;
+  
+}
