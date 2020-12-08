@@ -21,23 +21,18 @@ Esse repositório conta com todo o conteúdo desenvolvido durante o curso "FullS
 
 1. ### Currículo
 
-   Esse desafio era a elaboração de um currículo simples atráves do HTML 5 sem estilização, somente com as tag de marcação.
-
-   #### Tags Utitilizadas
-
-   - Estrutura básica
-   - Tags de Header
-   - Tags de Paragráfos
-   - Marcação de paragráfos
-   - Imagens
-   - Links
-   - Lista
-
-   #### Resultado
+   
 
    Objetivo: Criar um currículo através das tags básicas do HTML.
    [Repositório](https://github.com/felipemimoura/programadorBR/tree/master/htmlBasico/desafio)
 
    ![Desafio 1](https://imgur.com/hSsiupV.jpg)
 
-1.
+1. ### Página de captura
+
+   Objetivo: Criar uma pagina de capturade clientes
+   [Repositório](https://github.com/felipemimoura/programadorBR/tree/master/projeto-pagina-captura)
+   ![Desafio 2](https://imgur.com/PJ8Szyn.jpg)
+   
+
+
