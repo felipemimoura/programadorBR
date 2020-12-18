@@ -1,4 +1,4 @@
-p::first-line{
+/* p::first-line{
   color: red;
 }
 
@@ -34,4 +34,20 @@ li::after{
 p::selection{
   background-color: yellow;
   color: orange;
+} */
+
+/* Seletores */
+
+/* *{
+  margin: 0;
+} */
+/* p, header {
+  background-color: green;
+} */
+/* #head + p {
+  color: red;
+} */
+
+[width]{
+  background-color: green;
 }
