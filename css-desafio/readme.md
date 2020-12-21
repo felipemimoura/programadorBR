@@ -4,8 +4,8 @@ Durante esse projeto foi a integração do html junto com o CSS fazendo algumas 
 Foi o segundo projeto do curso FullStack do Igor Oliveira (programador BR)
 
 # :computer: Tecnologias
- <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
- <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+
 
  # Como verificar o conteudo do projeto
  1. Clone esse repositório completo (https://github.com/felipemimoura/programadorBR.git)
