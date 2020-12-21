@@ -8,7 +8,7 @@ Foi o quarto projeto do curso FullStack do Igor Oliveira (programador BR)
 
  # Como verificar o conteudo do projeto
  1. Clone esse repositório completo (https://github.com/felipemimoura/programadorBR.git)
- 2. Acesse a pasta projeto-pagina-captura
+ 2. Acesse a pasta churrascometro
  3. Execute o arquivo index.html
 
  # Resultado
