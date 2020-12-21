@@ -14,4 +14,4 @@ Foi o quarto projeto do curso FullStack do Igor Oliveira (programador BR)
  3. Execute o arquivo index.html
 
  # Resultado
- 
+ <img src="https://imgur.com/5zOihuw.jpg" />
