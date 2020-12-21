@@ -48,6 +48,23 @@ p::selection{
   color: red;
 } */
 
-[width]{
+/* [width]{
   background-color: green;
+} */
+
+/* Pseudo-Clases */
+
+input:focus{
+  color: red;
+}
+
+li:first-child{
+  color: blue;
+}
+li:first-of-type{
+  color: blueviolet;
+}
+
+li:nth-child(2){
+  color: chartreuse;
 }
