@@ -1,0 +1,30 @@
+.container {
+  background-color: darkgrey;
+  height: 400px;
+  color: white;
+
+  display: flex;
+  /* flex-direction: row;
+  flex-wrap: wrap; */
+  /* align-items: center; */
+  /* align-content: flex-start; */
+  /* flex-flow: column wrap;
+  justify-content: space-evenly;
+  */
+
+}
+.r1 {
+  background-color: red;
+}
+.r2 {
+  background-color: blue;
+}
+.r3 {
+  flex-shrink: 0;
+  background-color: green;
+}
+
+.rect{
+  width: 100px;
+  height: 100px;
+}
