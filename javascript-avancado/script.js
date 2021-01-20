@@ -19,6 +19,32 @@
 // bindedFuntion()
 
 
-let dobro = x =>{
-    console.log(2 * x)
+// let dobro = x =>{
+//     console.log(2 * x)
+// }
+
+
+function ola(){
+    console.log('Olá')
 }
+
+function saudacao(s, nome){
+    s()
+    console.log(nome)
+}
+
+saudacao(ola, "Felipe")
+
+let usuarios = ["Adriano", "Marcia", "José"]
+
+function inserirUsario(nome, callback){
+    setTimeout(() =>{
+        usuarios.push(nome)
+        callback()
+    },1000)
+}
+
+function listarUsuario(){
+    console.log(usuarios)
+}
+inserirUsario('Felipe',listarUsuario)
